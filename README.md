@@ -26,8 +26,5 @@ Python, Pandas, Scikit-learn, SpaCy, Matplotlib
 - Data, systems, security, and development are among the most distinctive ICT keywords
 - Topic modeling identified clusters related to auditing, marketing, accounting, and technical operations
 
-## Sample Visualizations
-(Add plots/screenshots here)
-
 ## Author
 Ruolan Ren
